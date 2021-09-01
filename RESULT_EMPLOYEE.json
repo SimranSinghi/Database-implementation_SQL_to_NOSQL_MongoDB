@@ -1,0 +1,1824 @@
+[
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1282b"
+    },
+    "E_FNAME": "'James'",
+    "E_LNAME": " 'Borg'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Headquarters'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Reorganization'",
+        "PNUM": "20"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1282c"
+    },
+    "E_FNAME": "'Franklin'",
+    "E_LNAME": " 'Wong'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Research'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'ProductX'",
+        "PNUM": "1"
+      },
+      {
+        "PNAME": "'ProductY'",
+        "PNUM": "2"
+      },
+      {
+        "PNAME": "'ProductZ'",
+        "PNUM": "3"
+      },
+      {
+        "PNAME": "'EntityAnnot'",
+        "PNUM": "4"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1282d"
+    },
+    "E_FNAME": "'Jennifer'",
+    "E_LNAME": " 'Wallace'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "Administration'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Computerization'",
+        "PNUM": "10"
+      },
+      {
+        "PNAME": "'Newbenefits'",
+        "PNUM": "30"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1282e"
+    },
+    "E_FNAME": "'Jared'",
+    "E_LNAME": " 'James'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1282f"
+    },
+    "E_FNAME": "'Alex'",
+    "E_LNAME": " 'Freed'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12830"
+    },
+    "E_FNAME": "'John'",
+    "E_LNAME": " 'James'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12831"
+    },
+    "E_FNAME": "'John'",
+    "E_LNAME": " 'Smith'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Research'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'ProductX'",
+        "PNUM": "1"
+      },
+      {
+        "PNAME": "'ProductY'",
+        "PNUM": "2"
+      },
+      {
+        "PNAME": "'ProductZ'",
+        "PNUM": "3"
+      },
+      {
+        "PNAME": "'EntityAnnot'",
+        "PNUM": "4"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12832"
+    },
+    "E_FNAME": "'Alicia'",
+    "E_LNAME": " 'Zelaya'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "Administration'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Computerization'",
+        "PNUM": "10"
+      },
+      {
+        "PNAME": "'Newbenefits'",
+        "PNUM": "30"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12833"
+    },
+    "E_FNAME": "'Ramesh'",
+    "E_LNAME": " 'Narayan'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Research'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'ProductX'",
+        "PNUM": "1"
+      },
+      {
+        "PNAME": "'ProductY'",
+        "PNUM": "2"
+      },
+      {
+        "PNAME": "'ProductZ'",
+        "PNUM": "3"
+      },
+      {
+        "PNAME": "'EntityAnnot'",
+        "PNUM": "4"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12834"
+    },
+    "E_FNAME": "'Joyce'",
+    "E_LNAME": " 'English'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Research'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'ProductX'",
+        "PNUM": "1"
+      },
+      {
+        "PNAME": "'ProductY'",
+        "PNUM": "2"
+      },
+      {
+        "PNAME": "'ProductZ'",
+        "PNUM": "3"
+      },
+      {
+        "PNAME": "'EntityAnnot'",
+        "PNUM": "4"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12835"
+    },
+    "E_FNAME": "'Ahmad'",
+    "E_LNAME": " 'Jabbar'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "Administration'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Computerization'",
+        "PNUM": "10"
+      },
+      {
+        "PNAME": "'Newbenefits'",
+        "PNUM": "30"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12836"
+    },
+    "E_FNAME": "'Jon'",
+    "E_LNAME": " 'Jones'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12837"
+    },
+    "E_FNAME": "'Justin'",
+    "E_LNAME": " 'Mark'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12838"
+    },
+    "E_FNAME": "'Brad'",
+    "E_LNAME": " 'Knight'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12839"
+    },
+    "E_FNAME": "'Evan'",
+    "E_LNAME": " 'Wallis'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1283a"
+    },
+    "E_FNAME": "'Josh'",
+    "E_LNAME": " 'Zell'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1283b"
+    },
+    "E_FNAME": "'Andy'",
+    "E_LNAME": " 'Vile'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1283c"
+    },
+    "E_FNAME": "'Tom'",
+    "E_LNAME": " 'Brand'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1283d"
+    },
+    "E_FNAME": "'Jenny'",
+    "E_LNAME": " 'Vos'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1283e"
+    },
+    "E_FNAME": "'Chris'",
+    "E_LNAME": " 'Carter'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1283f"
+    },
+    "E_FNAME": "'Kim'",
+    "E_LNAME": " 'Grace'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12840"
+    },
+    "E_FNAME": "'Jeff'",
+    "E_LNAME": " 'Chase'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12841"
+    },
+    "E_FNAME": "'Bonnie'",
+    "E_LNAME": " 'Bays'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12842"
+    },
+    "E_FNAME": "'Alec'",
+    "E_LNAME": " 'Best'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12843"
+    },
+    "E_FNAME": "'Sam'",
+    "E_LNAME": " 'Snedden'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12844"
+    },
+    "E_FNAME": "'Nandita'",
+    "E_LNAME": " 'Ball'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12845"
+    },
+    "E_FNAME": "'Bob'",
+    "E_LNAME": " 'Bender'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12846"
+    },
+    "E_FNAME": "'Jill'",
+    "E_LNAME": " 'Jarvis'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'HR'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Advertizing'",
+        "PNUM": "70"
+      },
+      {
+        "PNAME": "'Human1'",
+        "PNUM": "95"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12847"
+    },
+    "E_FNAME": "'Kate'",
+    "E_LNAME": " 'King'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12848"
+    },
+    "E_FNAME": "'Lyle'",
+    "E_LNAME": " 'Leslie'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12849"
+    },
+    "E_FNAME": "'Billie'",
+    "E_LNAME": " 'King'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1284a"
+    },
+    "E_FNAME": "'Megan'",
+    "E_LNAME": " 'Jones'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1284b"
+    },
+    "E_FNAME": "'Jon'",
+    "E_LNAME": " 'Kramer'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1284c"
+    },
+    "E_FNAME": "'Ray'",
+    "E_LNAME": " 'King'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'HR'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Advertizing'",
+        "PNUM": "70"
+      },
+      {
+        "PNAME": "'Human1'",
+        "PNUM": "95"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1284d"
+    },
+    "E_FNAME": "'Gerald'",
+    "E_LNAME": " 'Small'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1284e"
+    },
+    "E_FNAME": "'Arnold'",
+    "E_LNAME": " 'Head'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1284f"
+    },
+    "E_FNAME": "'Helga'",
+    "E_LNAME": " 'Pataki'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12850"
+    },
+    "E_FNAME": "'Naveen'",
+    "E_LNAME": " 'Drew'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12851"
+    },
+    "E_FNAME": "'Carl'",
+    "E_LNAME": " 'Reedy'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12852"
+    },
+    "E_FNAME": "'Sammy'",
+    "E_LNAME": " 'Hall'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12853"
+    },
+    "E_FNAME": "'Red'",
+    "E_LNAME": " 'Bacher'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12854"
+    },
+    "E_FNAME": "'Roy'",
+    "E_LNAME": " 'Lewallen'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12855"
+    },
+    "E_FNAME": "'John'",
+    "E_LNAME": " 'Ed'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12856"
+    },
+    "E_FNAME": "'Jennifer'",
+    "E_LNAME": " 'Joy'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12857"
+    },
+    "E_FNAME": "'Kim'",
+    "E_LNAME": " 'Ted'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'HR'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Advertizing'",
+        "PNUM": "70"
+      },
+      {
+        "PNAME": "'Human1'",
+        "PNUM": "95"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12858"
+    },
+    "E_FNAME": "'Juan'",
+    "E_LNAME": " 'Linda'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'HR'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Advertizing'",
+        "PNUM": "70"
+      },
+      {
+        "PNAME": "'Human1'",
+        "PNUM": "95"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12859"
+    },
+    "E_FNAME": "'Jose'",
+    "E_LNAME": " 'Barbara'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1285a"
+    },
+    "E_FNAME": "'willie'",
+    "E_LNAME": " 'Mary'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'HR'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Advertizing'",
+        "PNUM": "70"
+      },
+      {
+        "PNAME": "'Human1'",
+        "PNUM": "95"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1285b"
+    },
+    "E_FNAME": "'Erin'",
+    "E_LNAME": " 'Maxfield'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1285c"
+    },
+    "E_FNAME": "'Johny'",
+    "E_LNAME": " 'Smith'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'HR'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Advertizing'",
+        "PNUM": "70"
+      },
+      {
+        "PNAME": "'Human1'",
+        "PNUM": "95"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1285d"
+    },
+    "E_FNAME": "'Sunil'",
+    "E_LNAME": " 'Gupta'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Networking'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1285e"
+    },
+    "E_FNAME": "'Penny'",
+    "E_LNAME": " 'Wolowitz'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1285f"
+    },
+    "E_FNAME": "'Michael'",
+    "E_LNAME": " 'Morgan'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Research'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'ProductX'",
+        "PNUM": "1"
+      },
+      {
+        "PNAME": "'ProductY'",
+        "PNUM": "2"
+      },
+      {
+        "PNAME": "'ProductZ'",
+        "PNUM": "3"
+      },
+      {
+        "PNAME": "'EntityAnnot'",
+        "PNUM": "4"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12860"
+    },
+    "E_FNAME": "'Sheldon'",
+    "E_LNAME": " 'Cucuou'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Sales'"
+      }
+    ],
+    "PROJECT_DETAILS": [],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12861"
+    },
+    "E_FNAME": "'Debra'",
+    "E_LNAME": " 'Hall'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12862"
+    },
+    "E_FNAME": "'Jisha'",
+    "E_LNAME": " 'Carpenter'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Headquarters'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Reorganization'",
+        "PNUM": "20"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12863"
+    },
+    "E_FNAME": "'Gregory'",
+    "E_LNAME": " 'Laurie'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12864"
+    },
+    "E_FNAME": "'Lisa'",
+    "E_LNAME": " 'House'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12865"
+    },
+    "E_FNAME": "'Leonard'",
+    "E_LNAME": " 'Moody'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12866"
+    },
+    "E_FNAME": "'Jake'",
+    "E_LNAME": " 'Sheen'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12867"
+    },
+    "E_FNAME": "'Wilson'",
+    "E_LNAME": " 'Holmes'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "Administration'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Computerization'",
+        "PNUM": "10"
+      },
+      {
+        "PNAME": "'Newbenefits'",
+        "PNUM": "30"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12868"
+    },
+    "E_FNAME": "'Cameron'",
+    "E_LNAME": " 'Thirteen'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "Administration'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Computerization'",
+        "PNUM": "10"
+      },
+      {
+        "PNAME": "'Newbenefits'",
+        "PNUM": "30"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12869"
+    },
+    "E_FNAME": "'Joseph'",
+    "E_LNAME": " 'Kirkish'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Hardware'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'InkjetPrinters'",
+        "PNUM": "91"
+      },
+      {
+        "PNAME": "'LaserPrinters'",
+        "PNUM": "92"
+      },
+      {
+        "PNAME": "'MotherBoard'",
+        "PNUM": "29"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1286a"
+    },
+    "E_FNAME": "'Andrea'",
+    "E_LNAME": " 'Sondrini'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Research'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'ProductX'",
+        "PNUM": "1"
+      },
+      {
+        "PNAME": "'ProductY'",
+        "PNUM": "2"
+      },
+      {
+        "PNAME": "'ProductZ'",
+        "PNUM": "3"
+      },
+      {
+        "PNAME": "'EntityAnnot'",
+        "PNUM": "4"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1286b"
+    },
+    "E_FNAME": "'Cindy'",
+    "E_LNAME": " 'Burklow'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1286c"
+    },
+    "E_FNAME": "'Zach'",
+    "E_LNAME": " 'Geller'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1286d"
+    },
+    "E_FNAME": "'Alex'",
+    "E_LNAME": " 'Yu'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1286e"
+    },
+    "E_FNAME": "'Richard'",
+    "E_LNAME": " 'Koelbel'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "Administration'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Computerization'",
+        "PNUM": "10"
+      },
+      {
+        "PNAME": "'Newbenefits'",
+        "PNUM": "30"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d1286f"
+    },
+    "E_FNAME": "'Christina'",
+    "E_LNAME": " 'Hisel'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Software'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'OperatingSystem'",
+        "PNUM": "61"
+      },
+      {
+        "PNAME": "'DatabaseSystems'",
+        "PNUM": "62"
+      },
+      {
+        "PNAME": "'Middleware'",
+        "PNUM": "63"
+      },
+      {
+        "PNAME": "'SearchEngine'",
+        "PNUM": "22"
+      },
+      {
+        "PNAME": "'ConfigMgmt'",
+        "PNUM": "11"
+      },
+      {
+        "PNAME": "'DataMining'",
+        "PNUM": "13"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12870"
+    },
+    "E_FNAME": "'Percy'",
+    "E_LNAME": " 'Liang'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'HR'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'Advertizing'",
+        "PNUM": "70"
+      },
+      {
+        "PNAME": "'Human1'",
+        "PNUM": "95"
+      }
+    ],
+    "PROJECT_HOURS": []
+  },
+  {
+    "_id": {
+      "$oid": "6113306469f35f25f0d12871"
+    },
+    "E_FNAME": "'James'",
+    "E_LNAME": " 'Miller'",
+    "DEPARTMENT_DETAILS": [
+      {
+        "DNAME": "'Research'"
+      }
+    ],
+    "PROJECT_DETAILS": [
+      {
+        "PNAME": "'ProductX'",
+        "PNUM": "1"
+      },
+      {
+        "PNAME": "'ProductY'",
+        "PNUM": "2"
+      },
+      {
+        "PNAME": "'ProductZ'",
+        "PNUM": "3"
+      },
+      {
+        "PNAME": "'EntityAnnot'",
+        "PNUM": "4"
+      }
+    ],
+    "PROJECT_HOURS": []
+  }
+]
