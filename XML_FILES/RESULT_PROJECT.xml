@@ -1,0 +1,1352 @@
+<?xml version="1.0" ?>
+<all>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12874</key>
+		</_id>
+		<PNAME>'ProductX'</PNAME>
+		<PNUM>1</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Research'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Franklin'</E_FNAME>
+				<E_LNAME> 'Wong'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ramesh'</E_FNAME>
+				<E_LNAME> 'Narayan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Joyce'</E_FNAME>
+				<E_LNAME> 'English'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Michael'</E_FNAME>
+				<E_LNAME> 'Morgan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Andrea'</E_FNAME>
+				<E_LNAME> 'Sondrini'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'James'</E_FNAME>
+				<E_LNAME> 'Miller'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>32.5</HOURS>
+			</item>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+			<item>
+				<HOURS>2</HOURS>
+			</item>
+			<item>
+				<HOURS>25</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12875</key>
+		</_id>
+		<PNAME>'ProductY'</PNAME>
+		<PNUM>2</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Research'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Franklin'</E_FNAME>
+				<E_LNAME> 'Wong'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ramesh'</E_FNAME>
+				<E_LNAME> 'Narayan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Joyce'</E_FNAME>
+				<E_LNAME> 'English'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Michael'</E_FNAME>
+				<E_LNAME> 'Morgan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Andrea'</E_FNAME>
+				<E_LNAME> 'Sondrini'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'James'</E_FNAME>
+				<E_LNAME> 'Miller'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>7.5</HOURS>
+			</item>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>2</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12876</key>
+		</_id>
+		<PNAME>'ProductZ'</PNAME>
+		<PNUM>3</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Research'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Franklin'</E_FNAME>
+				<E_LNAME> 'Wong'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ramesh'</E_FNAME>
+				<E_LNAME> 'Narayan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Joyce'</E_FNAME>
+				<E_LNAME> 'English'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Michael'</E_FNAME>
+				<E_LNAME> 'Morgan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Andrea'</E_FNAME>
+				<E_LNAME> 'Sondrini'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'James'</E_FNAME>
+				<E_LNAME> 'Miller'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+			<item>
+				<HOURS>45</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12877</key>
+		</_id>
+		<PNAME>'Computerization'</PNAME>
+		<PNUM>10</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>Administration'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jennifer'</E_FNAME>
+				<E_LNAME> 'Wallace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alicia'</E_FNAME>
+				<E_LNAME> 'Zelaya'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ahmad'</E_FNAME>
+				<E_LNAME> 'Jabbar'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Wilson'</E_FNAME>
+				<E_LNAME> 'Holmes'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cameron'</E_FNAME>
+				<E_LNAME> 'Thirteen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Richard'</E_FNAME>
+				<E_LNAME> 'Koelbel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>35</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+			<item>
+				<HOURS>25</HOURS>
+			</item>
+			<item>
+				<HOURS>35</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12878</key>
+		</_id>
+		<PNAME>'Reorganization'</PNAME>
+		<PNUM>20</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Headquarters'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'James'</E_FNAME>
+				<E_LNAME> 'Borg'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jisha'</E_FNAME>
+				<E_LNAME> 'Carpenter'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>15</HOURS>
+			</item>
+			<item>
+				<HOURS>5</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12879</key>
+		</_id>
+		<PNAME>'Newbenefits'</PNAME>
+		<PNUM>30</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>Administration'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jennifer'</E_FNAME>
+				<E_LNAME> 'Wallace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alicia'</E_FNAME>
+				<E_LNAME> 'Zelaya'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ahmad'</E_FNAME>
+				<E_LNAME> 'Jabbar'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Wilson'</E_FNAME>
+				<E_LNAME> 'Holmes'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cameron'</E_FNAME>
+				<E_LNAME> 'Thirteen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Richard'</E_FNAME>
+				<E_LNAME> 'Koelbel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>30</HOURS>
+			</item>
+			<item>
+				<HOURS>5</HOURS>
+			</item>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+			<item>
+				<HOURS>25</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d1287a</key>
+		</_id>
+		<PNAME>'OperatingSystem'</PNAME>
+		<PNUM>61</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Software'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jared'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Justin'</E_FNAME>
+				<E_LNAME> 'Mark'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Brad'</E_FNAME>
+				<E_LNAME> 'Knight'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Grace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jeff'</E_FNAME>
+				<E_LNAME> 'Chase'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Nandita'</E_FNAME>
+				<E_LNAME> 'Ball'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Ed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jose'</E_FNAME>
+				<E_LNAME> 'Barbara'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Penny'</E_FNAME>
+				<E_LNAME> 'Wolowitz'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Debra'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jake'</E_FNAME>
+				<E_LNAME> 'Sheen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cindy'</E_FNAME>
+				<E_LNAME> 'Burklow'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Zach'</E_FNAME>
+				<E_LNAME> 'Geller'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Yu'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Christina'</E_FNAME>
+				<E_LNAME> 'Hisel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>30</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d1287b</key>
+		</_id>
+		<PNAME>'DatabaseSystems'</PNAME>
+		<PNUM>62</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Software'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jared'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Justin'</E_FNAME>
+				<E_LNAME> 'Mark'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Brad'</E_FNAME>
+				<E_LNAME> 'Knight'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Grace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jeff'</E_FNAME>
+				<E_LNAME> 'Chase'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Nandita'</E_FNAME>
+				<E_LNAME> 'Ball'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Ed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jose'</E_FNAME>
+				<E_LNAME> 'Barbara'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Penny'</E_FNAME>
+				<E_LNAME> 'Wolowitz'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Debra'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jake'</E_FNAME>
+				<E_LNAME> 'Sheen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cindy'</E_FNAME>
+				<E_LNAME> 'Burklow'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Zach'</E_FNAME>
+				<E_LNAME> 'Geller'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Yu'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Christina'</E_FNAME>
+				<E_LNAME> 'Hisel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>48</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+			<item>
+				<HOURS>25</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d1287c</key>
+		</_id>
+		<PNAME>'Middleware'</PNAME>
+		<PNUM>63</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Software'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jared'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Justin'</E_FNAME>
+				<E_LNAME> 'Mark'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Brad'</E_FNAME>
+				<E_LNAME> 'Knight'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Grace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jeff'</E_FNAME>
+				<E_LNAME> 'Chase'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Nandita'</E_FNAME>
+				<E_LNAME> 'Ball'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Ed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jose'</E_FNAME>
+				<E_LNAME> 'Barbara'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Penny'</E_FNAME>
+				<E_LNAME> 'Wolowitz'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Debra'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jake'</E_FNAME>
+				<E_LNAME> 'Sheen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cindy'</E_FNAME>
+				<E_LNAME> 'Burklow'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Zach'</E_FNAME>
+				<E_LNAME> 'Geller'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Yu'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Christina'</E_FNAME>
+				<E_LNAME> 'Hisel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>46</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>25</HOURS>
+			</item>
+			<item>
+				<HOURS>25</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d1287d</key>
+		</_id>
+		<PNAME>'Advertizing'</PNAME>
+		<PNUM>70</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'HR'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jill'</E_FNAME>
+				<E_LNAME> 'Jarvis'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ray'</E_FNAME>
+				<E_LNAME> 'King'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Ted'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Juan'</E_FNAME>
+				<E_LNAME> 'Linda'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'willie'</E_FNAME>
+				<E_LNAME> 'Mary'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Johny'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Percy'</E_FNAME>
+				<E_LNAME> 'Liang'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+			<item>
+				<HOURS>2</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d1287e</key>
+		</_id>
+		<PNAME>'InkjetPrinters'</PNAME>
+		<PNUM>91</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Hardware'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Freed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Evan'</E_FNAME>
+				<E_LNAME> 'Wallis'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Josh'</E_FNAME>
+				<E_LNAME> 'Zell'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Andy'</E_FNAME>
+				<E_LNAME> 'Vile'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Tom'</E_FNAME>
+				<E_LNAME> 'Brand'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jenny'</E_FNAME>
+				<E_LNAME> 'Vos'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Chris'</E_FNAME>
+				<E_LNAME> 'Carter'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Bonnie'</E_FNAME>
+				<E_LNAME> 'Bays'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alec'</E_FNAME>
+				<E_LNAME> 'Best'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Sam'</E_FNAME>
+				<E_LNAME> 'Snedden'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Gregory'</E_FNAME>
+				<E_LNAME> 'Laurie'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Lisa'</E_FNAME>
+				<E_LNAME> 'House'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Leonard'</E_FNAME>
+				<E_LNAME> 'Moody'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Joseph'</E_FNAME>
+				<E_LNAME> 'Kirkish'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>2</HOURS>
+			</item>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d1287f</key>
+		</_id>
+		<PNAME>'LaserPrinters'</PNAME>
+		<PNUM>92</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Hardware'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Freed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Evan'</E_FNAME>
+				<E_LNAME> 'Wallis'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Josh'</E_FNAME>
+				<E_LNAME> 'Zell'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Andy'</E_FNAME>
+				<E_LNAME> 'Vile'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Tom'</E_FNAME>
+				<E_LNAME> 'Brand'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jenny'</E_FNAME>
+				<E_LNAME> 'Vos'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Chris'</E_FNAME>
+				<E_LNAME> 'Carter'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Bonnie'</E_FNAME>
+				<E_LNAME> 'Bays'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alec'</E_FNAME>
+				<E_LNAME> 'Best'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Sam'</E_FNAME>
+				<E_LNAME> 'Snedden'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Gregory'</E_FNAME>
+				<E_LNAME> 'Laurie'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Lisa'</E_FNAME>
+				<E_LNAME> 'House'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Leonard'</E_FNAME>
+				<E_LNAME> 'Moody'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Joseph'</E_FNAME>
+				<E_LNAME> 'Kirkish'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>44</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>1</HOURS>
+			</item>
+			<item>
+				<HOURS>33</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12880</key>
+		</_id>
+		<PNAME>'Human1'</PNAME>
+		<PNUM>95</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'HR'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jill'</E_FNAME>
+				<E_LNAME> 'Jarvis'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ray'</E_FNAME>
+				<E_LNAME> 'King'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Ted'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Juan'</E_FNAME>
+				<E_LNAME> 'Linda'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'willie'</E_FNAME>
+				<E_LNAME> 'Mary'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Johny'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Percy'</E_FNAME>
+				<E_LNAME> 'Liang'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>3</HOURS>
+			</item>
+			<item>
+				<HOURS>40</HOURS>
+			</item>
+			<item>
+				<HOURS>35</HOURS>
+			</item>
+			<item>
+				<HOURS>23</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12881</key>
+		</_id>
+		<PNAME>'SearchEngine'</PNAME>
+		<PNUM>22</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Software'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jared'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Justin'</E_FNAME>
+				<E_LNAME> 'Mark'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Brad'</E_FNAME>
+				<E_LNAME> 'Knight'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Grace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jeff'</E_FNAME>
+				<E_LNAME> 'Chase'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Nandita'</E_FNAME>
+				<E_LNAME> 'Ball'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Ed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jose'</E_FNAME>
+				<E_LNAME> 'Barbara'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Penny'</E_FNAME>
+				<E_LNAME> 'Wolowitz'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Debra'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jake'</E_FNAME>
+				<E_LNAME> 'Sheen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cindy'</E_FNAME>
+				<E_LNAME> 'Burklow'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Zach'</E_FNAME>
+				<E_LNAME> 'Geller'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Yu'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Christina'</E_FNAME>
+				<E_LNAME> 'Hisel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>30</HOURS>
+			</item>
+			<item>
+				<HOURS>4</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12882</key>
+		</_id>
+		<PNAME>'MotherBoard'</PNAME>
+		<PNUM>29</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Hardware'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Freed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Evan'</E_FNAME>
+				<E_LNAME> 'Wallis'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Josh'</E_FNAME>
+				<E_LNAME> 'Zell'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Andy'</E_FNAME>
+				<E_LNAME> 'Vile'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Tom'</E_FNAME>
+				<E_LNAME> 'Brand'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jenny'</E_FNAME>
+				<E_LNAME> 'Vos'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Chris'</E_FNAME>
+				<E_LNAME> 'Carter'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Bonnie'</E_FNAME>
+				<E_LNAME> 'Bays'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alec'</E_FNAME>
+				<E_LNAME> 'Best'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Sam'</E_FNAME>
+				<E_LNAME> 'Snedden'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Gregory'</E_FNAME>
+				<E_LNAME> 'Laurie'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Lisa'</E_FNAME>
+				<E_LNAME> 'House'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Leonard'</E_FNAME>
+				<E_LNAME> 'Moody'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Joseph'</E_FNAME>
+				<E_LNAME> 'Kirkish'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>10</HOURS>
+			</item>
+			<item>
+				<HOURS>15</HOURS>
+			</item>
+			<item>
+				<HOURS>15</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12883</key>
+		</_id>
+		<PNAME>'EntityAnnot'</PNAME>
+		<PNUM>4</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Research'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Franklin'</E_FNAME>
+				<E_LNAME> 'Wong'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Ramesh'</E_FNAME>
+				<E_LNAME> 'Narayan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Joyce'</E_FNAME>
+				<E_LNAME> 'English'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Michael'</E_FNAME>
+				<E_LNAME> 'Morgan'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Andrea'</E_FNAME>
+				<E_LNAME> 'Sondrini'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'James'</E_FNAME>
+				<E_LNAME> 'Miller'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>11</HOURS>
+			</item>
+			<item>
+				<HOURS>5</HOURS>
+			</item>
+			<item>
+				<HOURS>45</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12884</key>
+		</_id>
+		<PNAME>'ConfigMgmt'</PNAME>
+		<PNUM>11</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Software'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jared'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Justin'</E_FNAME>
+				<E_LNAME> 'Mark'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Brad'</E_FNAME>
+				<E_LNAME> 'Knight'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Grace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jeff'</E_FNAME>
+				<E_LNAME> 'Chase'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Nandita'</E_FNAME>
+				<E_LNAME> 'Ball'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Ed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jose'</E_FNAME>
+				<E_LNAME> 'Barbara'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Penny'</E_FNAME>
+				<E_LNAME> 'Wolowitz'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Debra'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jake'</E_FNAME>
+				<E_LNAME> 'Sheen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cindy'</E_FNAME>
+				<E_LNAME> 'Burklow'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Zach'</E_FNAME>
+				<E_LNAME> 'Geller'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Yu'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Christina'</E_FNAME>
+				<E_LNAME> 'Hisel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+			<item>
+				<HOURS>25</HOURS>
+			</item>
+			<item>
+				<HOURS>20</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113307969f35f25f0d12885</key>
+		</_id>
+		<PNAME>'DataMining'</PNAME>
+		<PNUM>13</PNUM>
+		<DEPARTMENT_DETAILS>
+			<item>
+				<DNAME>'Software'</DNAME>
+			</item>
+		</DEPARTMENT_DETAILS>
+		<EMPLOYEE_DETAILS>
+			<item>
+				<E_FNAME>'Jared'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Justin'</E_FNAME>
+				<E_LNAME> 'Mark'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Brad'</E_FNAME>
+				<E_LNAME> 'Knight'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Grace'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jeff'</E_FNAME>
+				<E_LNAME> 'Chase'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Nandita'</E_FNAME>
+				<E_LNAME> 'Ball'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Ed'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jose'</E_FNAME>
+				<E_LNAME> 'Barbara'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Penny'</E_FNAME>
+				<E_LNAME> 'Wolowitz'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Debra'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Jake'</E_FNAME>
+				<E_LNAME> 'Sheen'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Cindy'</E_FNAME>
+				<E_LNAME> 'Burklow'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Zach'</E_FNAME>
+				<E_LNAME> 'Geller'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Yu'</E_LNAME>
+			</item>
+			<item>
+				<E_FNAME>'Christina'</E_FNAME>
+				<E_LNAME> 'Hisel'</E_LNAME>
+			</item>
+		</EMPLOYEE_DETAILS>
+		<PROJECT_HOURS>
+			<item>
+				<HOURS>18</HOURS>
+			</item>
+		</PROJECT_HOURS>
+	</item>
+</all>

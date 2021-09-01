@@ -1,0 +1,483 @@
+<?xml version="1.0" ?>
+<all>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12820</key>
+		</_id>
+		<DNAME>'Research'</DNAME>
+		<MGR_START_DATE> '22-MAY-1978'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'Wong'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'Franklin'</E_FNAME>
+				<E_LNAME> 'Wong'</E_LNAME>
+				<SALARY>40000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+				<SALARY>30000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Ramesh'</E_FNAME>
+				<E_LNAME> 'Narayan'</E_LNAME>
+				<SALARY>38000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Joyce'</E_FNAME>
+				<E_LNAME> 'English'</E_LNAME>
+				<SALARY>25000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Michael'</E_FNAME>
+				<E_LNAME> 'Morgan'</E_LNAME>
+				<SALARY>73500</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Andrea'</E_FNAME>
+				<E_LNAME> 'Sondrini'</E_LNAME>
+				<SALARY>65000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'James'</E_FNAME>
+				<E_LNAME> 'Miller'</E_LNAME>
+				<SALARY>75000</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12821</key>
+		</_id>
+		<DNAME>Administration'</DNAME>
+		<MGR_START_DATE> '01-JAN-1985'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'Wallace'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'Jennifer'</E_FNAME>
+				<E_LNAME> 'Wallace'</E_LNAME>
+				<SALARY>43000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Alicia'</E_FNAME>
+				<E_LNAME> 'Zelaya'</E_LNAME>
+				<SALARY>25000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Ahmad'</E_FNAME>
+				<E_LNAME> 'Jabbar'</E_LNAME>
+				<SALARY>25000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Wilson'</E_FNAME>
+				<E_LNAME> 'Holmes'</E_LNAME>
+				<SALARY>72500</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Cameron'</E_FNAME>
+				<E_LNAME> 'Thirteen'</E_LNAME>
+				<SALARY>80000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Richard'</E_FNAME>
+				<E_LNAME> 'Koelbel'</E_LNAME>
+				<SALARY>85000</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12822</key>
+		</_id>
+		<DNAME>'Headquarters'</DNAME>
+		<MGR_START_DATE> '19-JUN-1971'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'Borg'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'James'</E_FNAME>
+				<E_LNAME> 'Borg'</E_LNAME>
+				<SALARY>55000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jisha'</E_FNAME>
+				<E_LNAME> 'Carpenter'</E_LNAME>
+				<SALARY>15000</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12823</key>
+		</_id>
+		<DNAME>'Software'</DNAME>
+		<MGR_START_DATE> '15-MAY-1999'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'Jared'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+				<SALARY>85000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+				<SALARY>45000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Justin'</E_FNAME>
+				<E_LNAME> 'Mark'</E_LNAME>
+				<SALARY>40000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Brad'</E_FNAME>
+				<E_LNAME> 'Knight'</E_LNAME>
+				<SALARY>44000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Grace'</E_LNAME>
+				<SALARY>79000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jeff'</E_FNAME>
+				<E_LNAME> 'Chase'</E_LNAME>
+				<SALARY>44000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Nandita'</E_FNAME>
+				<E_LNAME> 'Ball'</E_LNAME>
+				<SALARY>62000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'Ed'</E_LNAME>
+				<SALARY>30000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jose'</E_FNAME>
+				<E_LNAME> 'Barbara'</E_LNAME>
+				<SALARY>35000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Penny'</E_FNAME>
+				<E_LNAME> 'Wolowitz'</E_LNAME>
+				<SALARY>17000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Debra'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+				<SALARY>30000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jake'</E_FNAME>
+				<E_LNAME> 'Sheen'</E_LNAME>
+				<SALARY>52000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Cindy'</E_FNAME>
+				<E_LNAME> 'Burklow'</E_LNAME>
+				<SALARY>45000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Zach'</E_FNAME>
+				<E_LNAME> 'Geller'</E_LNAME>
+				<SALARY>55000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Yu'</E_LNAME>
+				<SALARY>50000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Christina'</E_FNAME>
+				<E_LNAME> 'Hisel'</E_LNAME>
+				<SALARY>45000</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12824</key>
+		</_id>
+		<DNAME>'Hardware'</DNAME>
+		<MGR_START_DATE> '15-MAY-1998'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'Freed'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'Alex'</E_FNAME>
+				<E_LNAME> 'Freed'</E_LNAME>
+				<SALARY>89000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Evan'</E_FNAME>
+				<E_LNAME> 'Wallis'</E_LNAME>
+				<SALARY>92000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Josh'</E_FNAME>
+				<E_LNAME> 'Zell'</E_LNAME>
+				<SALARY>56000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Andy'</E_FNAME>
+				<E_LNAME> 'Vile'</E_LNAME>
+				<SALARY>53000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Tom'</E_FNAME>
+				<E_LNAME> 'Brand'</E_LNAME>
+				<SALARY>62500</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jenny'</E_FNAME>
+				<E_LNAME> 'Vos'</E_LNAME>
+				<SALARY>61000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Chris'</E_FNAME>
+				<E_LNAME> 'Carter'</E_LNAME>
+				<SALARY>43000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Bonnie'</E_FNAME>
+				<E_LNAME> 'Bays'</E_LNAME>
+				<SALARY>70000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Alec'</E_FNAME>
+				<E_LNAME> 'Best'</E_LNAME>
+				<SALARY>60000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Sam'</E_FNAME>
+				<E_LNAME> 'Snedden'</E_LNAME>
+				<SALARY>48000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Gregory'</E_FNAME>
+				<E_LNAME> 'Laurie'</E_LNAME>
+				<SALARY>90000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Lisa'</E_FNAME>
+				<E_LNAME> 'House'</E_LNAME>
+				<SALARY>85000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Leonard'</E_FNAME>
+				<E_LNAME> 'Moody'</E_LNAME>
+				<SALARY>45000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Joseph'</E_FNAME>
+				<E_LNAME> 'Kirkish'</E_LNAME>
+				<SALARY>95000</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12825</key>
+		</_id>
+		<DNAME>'Sales'</DNAME>
+		<MGR_START_DATE> '01-JAN-1997'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'James'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'John'</E_FNAME>
+				<E_LNAME> 'James'</E_LNAME>
+				<SALARY>81000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Bob'</E_FNAME>
+				<E_LNAME> 'Bender'</E_LNAME>
+				<SALARY>96000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Kate'</E_FNAME>
+				<E_LNAME> 'King'</E_LNAME>
+				<SALARY>44000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Lyle'</E_FNAME>
+				<E_LNAME> 'Leslie'</E_LNAME>
+				<SALARY>41000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Billie'</E_FNAME>
+				<E_LNAME> 'King'</E_LNAME>
+				<SALARY>38000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Megan'</E_FNAME>
+				<E_LNAME> 'Jones'</E_LNAME>
+				<SALARY>62000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jon'</E_FNAME>
+				<E_LNAME> 'Kramer'</E_LNAME>
+				<SALARY>41500</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Gerald'</E_FNAME>
+				<E_LNAME> 'Small'</E_LNAME>
+				<SALARY>29000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Arnold'</E_FNAME>
+				<E_LNAME> 'Head'</E_LNAME>
+				<SALARY>33000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Helga'</E_FNAME>
+				<E_LNAME> 'Pataki'</E_LNAME>
+				<SALARY>32000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Naveen'</E_FNAME>
+				<E_LNAME> 'Drew'</E_LNAME>
+				<SALARY>34000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Carl'</E_FNAME>
+				<E_LNAME> 'Reedy'</E_LNAME>
+				<SALARY>32000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Sammy'</E_FNAME>
+				<E_LNAME> 'Hall'</E_LNAME>
+				<SALARY>37000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Red'</E_FNAME>
+				<E_LNAME> 'Bacher'</E_LNAME>
+				<SALARY>33500</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Roy'</E_FNAME>
+				<E_LNAME> 'Lewallen'</E_LNAME>
+				<SALARY>75500</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Jennifer'</E_FNAME>
+				<E_LNAME> 'Joy'</E_LNAME>
+				<SALARY>45000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Erin'</E_FNAME>
+				<E_LNAME> 'Maxfield'</E_LNAME>
+				<SALARY>72000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Sheldon'</E_FNAME>
+				<E_LNAME> 'Cucuou'</E_LNAME>
+				<SALARY>35500</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12826</key>
+		</_id>
+		<DNAME>'HR'</DNAME>
+		<MGR_START_DATE> '01-FEB-1989'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'Linda'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'Jill'</E_FNAME>
+				<E_LNAME> 'Jarvis'</E_LNAME>
+				<SALARY>36000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Ray'</E_FNAME>
+				<E_LNAME> 'King'</E_LNAME>
+				<SALARY>44500</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Kim'</E_FNAME>
+				<E_LNAME> 'Ted'</E_LNAME>
+				<SALARY>50000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Juan'</E_FNAME>
+				<E_LNAME> 'Linda'</E_LNAME>
+				<SALARY>55000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'willie'</E_FNAME>
+				<E_LNAME> 'Mary'</E_LNAME>
+				<SALARY>12000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Johny'</E_FNAME>
+				<E_LNAME> 'Smith'</E_LNAME>
+				<SALARY>65000</SALARY>
+			</item>
+			<item>
+				<E_FNAME>'Percy'</E_FNAME>
+				<E_LNAME> 'Liang'</E_LNAME>
+				<SALARY>55000</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12827</key>
+		</_id>
+		<DNAME>'Networking'</DNAME>
+		<MGR_START_DATE> '15-MAY-2009'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'Gupta'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS>
+			<item>
+				<E_FNAME>'Sunil'</E_FNAME>
+				<E_LNAME> 'Gupta'</E_LNAME>
+				<SALARY>80000</SALARY>
+			</item>
+		</EMP_DETAILS>
+	</item>
+	<item>
+		<_id>
+			<key name="$oid">6113304b69f35f25f0d12828</key>
+		</_id>
+		<DNAME>'QA'</DNAME>
+		<MGR_START_DATE> '2-FEB-2010'</MGR_START_DATE>
+		<MANAGER_LNAME>
+			<item>
+				<E_LNAME> 'Kirkish'</E_LNAME>
+			</item>
+		</MANAGER_LNAME>
+		<EMP_DETAILS/>
+	</item>
+</all>
